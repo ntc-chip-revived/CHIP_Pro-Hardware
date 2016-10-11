@@ -310,7 +310,7 @@
 <devicesets>
 <deviceset name="CHIP_PRO">
 <gates>
-<gate name="G$1" symbol="CHIP_PRO" x="0" y="0"/>
+<gate name="G$1" symbol="CHIP_PRO" x="2.54" y="0"/>
 </gates>
 <devices>
 <device name="" package="CHIP_PRO">
@@ -331,10 +331,10 @@
 <connect gate="G$1" pin="CSIPCK" pad="CSIPCK"/>
 <connect gate="G$1" pin="CSIVSYNC" pad="CSIVSYNC"/>
 <connect gate="G$1" pin="GND@0" pad="GND@0"/>
-<connect gate="G$1" pin="GND@2" pad="GND@2"/>
-<connect gate="G$1" pin="GND@3" pad="GND@3"/>
-<connect gate="G$1" pin="GND@4" pad="GND@4"/>
-<connect gate="G$1" pin="GND@5" pad="VBUS"/>
+<connect gate="G$1" pin="GND@2" pad="GND@1"/>
+<connect gate="G$1" pin="GND@3" pad="GND@2"/>
+<connect gate="G$1" pin="GND@4" pad="GND@3"/>
+<connect gate="G$1" pin="GND@5" pad="GND@4"/>
 <connect gate="G$1" pin="GND@6" pad="GND@6"/>
 <connect gate="G$1" pin="GND@7" pad="GND@7"/>
 <connect gate="G$1" pin="HPCOM" pad="HPCOM"/>
@@ -365,7 +365,7 @@
 <connect gate="G$1" pin="USB0_P" pad="USB0_P"/>
 <connect gate="G$1" pin="USB1_N" pad="USB1_N"/>
 <connect gate="G$1" pin="USB1_P" pad="USB1_P"/>
-<connect gate="G$1" pin="VBUS" pad="GND@1"/>
+<connect gate="G$1" pin="VBUS" pad="VBUS"/>
 <connect gate="G$1" pin="VCC3V3" pad="VCC3V3"/>
 <connect gate="G$1" pin="VMIC" pad="VMIC"/>
 </connects>
