@@ -192,7 +192,7 @@
 <smd name="GND@2" x="-15" y="6.35" dx="2" dy="1" layer="1" rot="R180"/>
 <smd name="GND@3" x="-15" y="19.05" dx="2" dy="1" layer="1" rot="R180"/>
 <smd name="GND@4" x="-12" y="23" dx="2" dy="1" layer="1" rot="R90"/>
-<smd name="GND@5" x="-6" y="23" dx="2" dy="1" layer="1" rot="R90"/>
+<smd name="VBUS" x="-6" y="23" dx="2" dy="1" layer="1" rot="R90"/>
 <smd name="GND@6" x="6" y="23" dx="2" dy="1" layer="1" rot="R90"/>
 <smd name="GND@7" x="12" y="23" dx="2" dy="1" layer="1" rot="R90"/>
 <smd name="HPCOM" x="-8" y="-22.5" dx="2" dy="1" layer="1" rot="R90"/>
@@ -222,7 +222,7 @@
 <smd name="USB0_P" x="-8" y="23" dx="2" dy="1" layer="1" rot="R90"/>
 <smd name="USB1_N" x="8" y="23" dx="2" dy="1" layer="1" rot="R90"/>
 <smd name="USB1_P" x="10" y="23" dx="2" dy="1" layer="1" rot="R90"/>
-<smd name="VCC-ACC" x="-15" y="13.97" dx="2" dy="1" layer="1" rot="R180"/>
+<smd name="IPSOUT" x="-15" y="13.97" dx="2" dy="1" layer="1" rot="R180"/>
 <smd name="VCC3V3" x="-15" y="16.51" dx="2" dy="1" layer="1" rot="R180"/>
 <smd name="VMIC" x="12" y="-22.5" dx="2" dy="1" layer="1" rot="R90"/>
 <text x="-13" y="26" size="1.27" layer="25" font="vector" ratio="12">&gt;NAME</text>
@@ -264,7 +264,7 @@
 <pin name="CSIPCK" x="35.56" y="20.32" visible="pad" length="short" function="dot" rot="R180"/>
 <pin name="CSIVSYNC" x="35.56" y="5.08" visible="pad" length="short" function="dot" rot="R180"/>
 <pin name="GND@0" x="-30.48" y="45.72" visible="pad" length="short" direction="pwr" function="dot" rot="R270"/>
-<pin name="GND@1" x="-15.24" y="45.72" visible="pad" length="short" direction="pwr" function="dot" rot="R270"/>
+<pin name="VBUS" x="-15.24" y="45.72" visible="pad" length="short" direction="pwr" function="dot" rot="R270"/>
 <pin name="GND@2" x="15.24" y="45.72" visible="pad" length="short" direction="pwr" function="dot" rot="R270"/>
 <pin name="GND@3" x="30.48" y="45.72" visible="pad" length="short" direction="pwr" function="dot" rot="R270"/>
 <pin name="GND@4" x="35.56" y="40.64" visible="pad" length="short" direction="pwr" function="dot" rot="R180"/>
@@ -299,7 +299,7 @@
 <pin name="USB1_N" x="20.32" y="45.72" visible="pad" length="short" function="dot" rot="R270"/>
 <pin name="USB1_P" x="25.4" y="45.72" visible="pad" length="short" function="dot" rot="R270"/>
 <pin name="VCC3V3" x="-35.56" y="35.56" visible="pad" length="short" direction="pwr" function="dot"/>
-<pin name="VCCACC" x="-35.56" y="30.48" visible="pad" length="short" direction="pwr" function="dot"/>
+<pin name="IPSOUT" x="-35.56" y="30.48" visible="pad" length="short" direction="pwr" function="dot"/>
 <pin name="VMIC" x="30.48" y="-40.64" visible="pad" length="short" function="dot" rot="R90"/>
 <text x="-48.26" y="48.26" size="1.27" layer="95">&gt;NAME</text>
 <text x="-48.26" y="45.72" size="1.27" layer="96">&gt;VALUE</text>
@@ -331,11 +331,10 @@
 <connect gate="G$1" pin="CSIPCK" pad="CSIPCK"/>
 <connect gate="G$1" pin="CSIVSYNC" pad="CSIVSYNC"/>
 <connect gate="G$1" pin="GND@0" pad="GND@0"/>
-<connect gate="G$1" pin="GND@1" pad="GND@1"/>
 <connect gate="G$1" pin="GND@2" pad="GND@2"/>
 <connect gate="G$1" pin="GND@3" pad="GND@3"/>
 <connect gate="G$1" pin="GND@4" pad="GND@4"/>
-<connect gate="G$1" pin="GND@5" pad="GND@5"/>
+<connect gate="G$1" pin="GND@5" pad="VBUS"/>
 <connect gate="G$1" pin="GND@6" pad="GND@6"/>
 <connect gate="G$1" pin="GND@7" pad="GND@7"/>
 <connect gate="G$1" pin="HPCOM" pad="HPCOM"/>
@@ -346,6 +345,7 @@
 <connect gate="G$1" pin="I2SLRCK" pad="I2S-LRCK"/>
 <connect gate="G$1" pin="I2SMCLK" pad="I2S-MCLK"/>
 <connect gate="G$1" pin="I2SSPDIF" pad="I2S+SPDIF"/>
+<connect gate="G$1" pin="IPSOUT" pad="IPSOUT"/>
 <connect gate="G$1" pin="LRADC" pad="LRADC"/>
 <connect gate="G$1" pin="MICIN1" pad="MICIN1"/>
 <connect gate="G$1" pin="MICIN2" pad="MICIN2"/>
@@ -365,8 +365,8 @@
 <connect gate="G$1" pin="USB0_P" pad="USB0_P"/>
 <connect gate="G$1" pin="USB1_N" pad="USB1_N"/>
 <connect gate="G$1" pin="USB1_P" pad="USB1_P"/>
+<connect gate="G$1" pin="VBUS" pad="GND@1"/>
 <connect gate="G$1" pin="VCC3V3" pad="VCC3V3"/>
-<connect gate="G$1" pin="VCCACC" pad="VCC-ACC"/>
 <connect gate="G$1" pin="VMIC" pad="VMIC"/>
 </connects>
 <technologies>
