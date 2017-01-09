@@ -1,0 +1,635 @@
+*PADS-LIBRARY-SCH-DECALS-V9*
+
+
+CHIP_PRO 0 0 10 1 10 1 2 4 0 47 0
+"Default Font"
+"Default Font"
+-1600 1620 0 0 100 10 "Default Font"
+REF-DES
+-1600 -1620 0 0 100 10 "Default Font"
+PART-TYPE
+OPEN 2 10 26 -1
+1600 1600
+-1600 1600
+OPEN 2 10 26 -1
+-1600 1600
+-1600 -1500
+OPEN 2 10 26 -1
+-1600 -1500
+1600 -1500
+OPEN 2 10 26 -1
+1600 -1500
+1600 1600
+T-1800 200 0 0 -39 0 0 16 239 0 0 16 PIN_R0_U_L200
+P0 0 0 16 50 20 0 0 128
+T-1800 100 0 0 -39 0 0 16 239 0 0 16 PIN_R0_U_L200
+P0 0 0 16 50 20 0 0 128
+T-1800 0 0 0 -39 0 0 16 239 0 0 16 PIN_R0_U_L200
+P0 0 0 16 50 20 0 0 128
+T-1800 -100 0 0 -39 0 0 16 239 0 0 16 PIN_R0_U_L200
+P0 0 0 16 50 20 0 0 128
+T-1800 -200 0 0 -39 0 0 16 239 0 0 16 PIN_R0_U_L200
+P0 0 0 16 50 20 0 0 128
+T-1800 -300 0 0 -39 0 0 16 239 0 0 16 PIN_R0_U_L200
+P0 0 0 16 50 20 0 0 128
+T-1800 -400 0 0 -39 0 0 16 239 0 0 16 PIN_R0_U_L200
+P0 0 0 16 50 20 0 0 128
+T-1800 -500 0 0 -39 0 0 16 239 0 0 16 PIN_R0_U_L200
+P0 0 0 16 50 20 0 0 128
+T-1800 -700 0 0 -39 0 0 16 239 0 0 16 PIN_R0_U_L200
+P0 0 0 16 50 20 0 0 128
+T-1800 -800 0 0 -39 0 0 16 239 0 0 16 PIN_R0_U_L200
+P0 0 0 16 50 20 0 0 128
+T-1800 -900 0 0 -39 0 0 16 239 0 0 16 PIN_R0_U_L200
+P0 0 0 16 50 20 0 0 128
+T-1800 -1000 0 0 -39 0 0 16 239 0 0 16 PIN_R0_U_L200
+P0 0 0 16 50 20 0 0 128
+T1800 300 0 0 -39 0 0 18 -239 0 0 18 PIN_R180_U_L200
+P0 0 0 18 50 20 0 0 128
+T1800 200 0 0 -39 0 0 18 -239 0 0 18 PIN_R180_U_L200
+P0 0 0 18 50 20 0 0 128
+T1800 100 0 0 -39 0 0 18 -239 0 0 18 PIN_R180_U_L200
+P0 0 0 18 50 20 0 0 128
+T1800 0 0 0 -39 0 0 18 -239 0 0 18 PIN_R180_U_L200
+P0 0 0 18 50 20 0 0 128
+T1800 -100 0 0 -39 0 0 18 -239 0 0 18 PIN_R180_U_L200
+P0 0 0 18 50 20 0 0 128
+T1800 -200 0 0 -39 0 0 18 -239 0 0 18 PIN_R180_U_L200
+P0 0 0 18 50 20 0 0 128
+T1800 -300 0 0 -39 0 0 18 -239 0 0 18 PIN_R180_U_L200
+P0 0 0 18 50 20 0 0 128
+T1800 -400 0 0 -39 0 0 18 -239 0 0 18 PIN_R180_U_L200
+P0 0 0 18 50 20 0 0 128
+T1800 -500 0 0 -39 0 0 18 -239 0 0 18 PIN_R180_U_L200
+P0 0 0 18 50 20 0 0 128
+T1800 -600 0 0 -39 0 0 18 -239 0 0 18 PIN_R180_U_L200
+P0 0 0 18 50 20 0 0 128
+T1800 -700 0 0 -39 0 0 18 -239 0 0 18 PIN_R180_U_L200
+P0 0 0 18 50 20 0 0 128
+T1800 -800 0 0 -39 0 0 18 -239 0 0 18 PIN_R180_U_L200
+P0 0 0 18 50 20 0 0 128
+T-1800 -1200 0 0 -39 0 0 16 239 0 0 16 PIN_R0_U_L200
+P0 0 0 16 50 20 0 0 128
+T-1800 -1300 0 0 -39 0 0 16 239 0 0 16 PIN_R0_U_L200
+P0 0 0 16 50 20 0 0 128
+T-1800 700 0 0 -39 0 0 16 239 0 0 16 PIN_R0_U_L200
+P0 0 0 16 50 20 0 0 128
+T-1800 600 0 0 -39 0 0 16 239 0 0 16 PIN_R0_U_L200
+P0 0 0 16 50 20 0 0 128
+T-1800 500 0 0 -39 0 0 16 239 0 0 16 PIN_R0_U_L200
+P0 0 0 16 50 20 0 0 128
+T-1800 400 0 0 -39 0 0 16 239 0 0 16 PIN_R0_U_L200
+P0 0 0 16 50 20 0 0 128
+T1800 1500 0 0 -39 0 0 18 -239 0 0 18 PIN_R180_U_L200
+P0 0 0 18 50 20 0 0 128
+T1800 -1300 0 0 -39 0 0 18 -239 0 0 18 PIN_R180_U_L200
+P0 0 0 18 50 20 0 0 128
+T-1800 1100 0 0 -39 0 0 16 239 0 0 16 PIN_R0_U_L200
+P0 0 0 16 50 20 0 0 128
+T-1800 1000 0 0 -39 0 0 16 239 0 0 16 PIN_R0_U_L200
+P0 0 0 16 50 20 0 0 128
+T1800 700 0 0 -39 0 0 18 -239 0 0 18 PIN_R180_U_L200
+P0 0 0 18 50 20 0 0 128
+T1800 600 0 0 -39 0 0 18 -239 0 0 18 PIN_R180_U_L200
+P0 0 0 18 50 20 0 0 128
+T1800 500 0 0 -39 0 0 18 -239 0 0 18 PIN_R180_U_L200
+P0 0 0 18 50 20 0 0 128
+T-1800 900 0 0 -39 0 0 16 239 0 0 16 PIN_R0_U_L200
+P0 0 0 16 50 20 0 0 128
+T-1800 1300 0 0 -39 0 0 16 239 0 0 16 PIN_R0_U_L200
+P0 0 0 16 50 20 0 0 128
+T1800 1400 0 0 -39 0 0 18 -239 0 0 18 PIN_R180_U_L200
+P0 0 0 18 50 20 0 0 128
+T1800 1200 0 0 -39 0 0 18 -239 0 0 18 PIN_R180_U_L200
+P0 0 0 18 50 20 0 0 128
+T1800 1000 0 0 -39 0 0 18 -239 0 0 18 PIN_R180_U_L200
+P0 0 0 18 50 20 0 0 128
+T1800 -1400 0 0 -39 0 0 18 -239 0 0 18 PIN_R180_U_L200
+P0 0 0 18 50 20 0 0 128
+T-1800 1400 0 0 -39 0 0 16 239 0 0 16 PIN_R0_U_L200
+P0 0 0 16 50 20 0 0 128
+T1800 1300 0 0 -39 0 0 18 -239 0 0 18 PIN_R180_U_L200
+P0 0 0 18 50 20 0 0 128
+T1800 1100 0 0 -39 0 0 18 -239 0 0 18 PIN_R180_U_L200
+P0 0 0 18 50 20 0 0 128
+T-1800 -1400 0 0 -39 0 0 16 239 0 0 16 PIN_R0_U_L200
+P0 0 0 16 50 20 0 0 128
+
+PIN_R0_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+200 0
+
+PIN_R0_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+200 0
+
+PIN_R0_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+200 0
+
+PIN_R0_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+200 0
+
+PIN_R0_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+200 0
+
+PIN_R0_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+200 0
+
+PIN_R0_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+200 0
+
+PIN_R0_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+200 0
+
+PIN_R0_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+200 0
+
+PIN_R0_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+200 0
+
+PIN_R0_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+200 0
+
+PIN_R0_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+200 0
+
+PIN_R180_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+-200 0
+
+PIN_R180_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+-200 0
+
+PIN_R180_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+-200 0
+
+PIN_R180_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+-200 0
+
+PIN_R180_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+-200 0
+
+PIN_R180_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+-200 0
+
+PIN_R180_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+-200 0
+
+PIN_R180_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+-200 0
+
+PIN_R180_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+-200 0
+
+PIN_R180_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+-200 0
+
+PIN_R180_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+-200 0
+
+PIN_R180_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+-200 0
+
+PIN_R0_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+200 0
+
+PIN_R0_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+200 0
+
+PIN_R0_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+200 0
+
+PIN_R0_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+200 0
+
+PIN_R0_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+200 0
+
+PIN_R0_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+200 0
+
+PIN_R180_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+-200 0
+
+PIN_R180_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+-200 0
+
+PIN_R0_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+200 0
+
+PIN_R0_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+200 0
+
+PIN_R180_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+-200 0
+
+PIN_R180_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+-200 0
+
+PIN_R180_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+-200 0
+
+PIN_R0_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+200 0
+
+PIN_R0_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+200 0
+
+PIN_R180_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+-200 0
+
+PIN_R180_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+-200 0
+
+PIN_R180_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+-200 0
+
+PIN_R180_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+-200 0
+
+PIN_R0_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+200 0
+
+PIN_R180_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+-200 0
+
+PIN_R180_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+-200 0
+
+PIN_R0_U_L200 0 0 0 0 0 0 2 1 0 0 0
+"Default Font"
+"Default Font"
+0 0 0 4 50 10 "Default Font"
+REF-DES
+0 0 0 4 50 10 "Default Font"
+PART-TYPE
+OPEN 2 6.5 26 -1
+0 0
+200 0
+
+*END*
