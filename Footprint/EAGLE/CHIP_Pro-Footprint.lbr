@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.6.0">
+<eagle version="7.5.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -210,8 +210,8 @@
 <smd name="PWM1" x="-15" y="-3.81" dx="2" dy="1" layer="1" rot="R180"/>
 <smd name="PWRON" x="-15" y="8.89" dx="2" dy="1" layer="1" rot="R180"/>
 <smd name="TS" x="-15" y="3.81" dx="2" dy="1" layer="1" rot="R180"/>
-<smd name="TWI1-SCK" x="-15" y="-8.89" dx="2" dy="1" layer="1" rot="R180"/>
-<smd name="TWI1-SDA" x="-15" y="-6.35" dx="2" dy="1" layer="1" rot="R180"/>
+<smd name="TWI1-SCK" x="-15" y="-6.35" dx="2" dy="1" layer="1" rot="R180"/>
+<smd name="TWI1-SDA" x="-15" y="-8.89" dx="2" dy="1" layer="1" rot="R180"/>
 <smd name="UART1-RX" x="15" y="13.97" dx="2" dy="1" layer="1" rot="R180"/>
 <smd name="UART1-TX" x="15" y="16.51" dx="2" dy="1" layer="1" rot="R180"/>
 <smd name="UART2-CTS" x="-15" y="-16.51" dx="2" dy="1" layer="1" rot="R180"/>
@@ -286,8 +286,8 @@
 <pin name="PWM1" x="-35.56" y="-5.08" visible="pad" length="short" function="dot"/>
 <pin name="PWRON" x="-35.56" y="20.32" visible="pad" length="short" function="dot"/>
 <pin name="TS" x="-35.56" y="10.16" visible="pad" length="short" function="dot"/>
-<pin name="TWI1-SCK" x="-35.56" y="-15.24" visible="pad" length="short" function="dot"/>
-<pin name="TWI1-SDA" x="-35.56" y="-10.16" visible="pad" length="short" function="dot"/>
+<pin name="TWI1-SCK" x="-35.56" y="-10.16" visible="pad" length="short" function="dot"/>
+<pin name="TWI1-SDA" x="-35.56" y="-15.24" visible="pad" length="short" function="dot"/>
 <pin name="UART1-RX" x="35.56" y="30.48" visible="pad" length="short" function="dot" rot="R180"/>
 <pin name="UART1-TX" x="35.56" y="35.56" visible="pad" length="short" function="dot" rot="R180"/>
 <pin name="UART2-CTS" x="-35.56" y="-30.48" visible="pad" length="short" function="dot"/>
