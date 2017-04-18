@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/NextThingCo/CHIP_Pro-Hardware/master/v1.0/CHIP_Pro_v1_0_Photo.jpg)
+![Image of C.H.I.P. Pro v1.0](https://raw.githubusercontent.com/NextThingCo/CHIP_Pro-Hardware/master/v1.0/CHIP_Pro_v1_0_Photo.jpg)
 
 # C.H.I.P. Pro Hardware Versions
 
@@ -10,14 +10,14 @@ C.H.I.P. Pro is designed using OrCAD!
 <br>A free "lite" viewer is available at www.orcad.com
 
 # Documentation
-**C.H.I.P. Pro Datasheet:** <br>
-github.com/NextThingCo/CHIP_Pro-Hardware/blob/master/Datasheets/CHIP_PRO_Datasheet_v1.0.pdf
+#### C.H.I.P. Pro Datasheet:
+https://github.com/NextThingCo/CHIP_Pro-Hardware/blob/master/Datasheets/CHIP_PRO_Datasheet_v1.0.pdf
 
-**C.H.I.P. Pro Docs:** <br>
-docs.getchip.com/chip_pro.html
+#### C.H.I.P. Pro Docs:
+https://docs.getchip.com/chip_pro.html
 
-**C.H.I.P. Pro Dev Kit Docs:** <br>
-docs.getchip.com/chip_pro_devkit.html
+#### C.H.I.P. Pro Dev Kit Docs:
+https://docs.getchip.com/chip_pro_devkit.html
 
 # Compliance
 C.H.I.P. Pro is tested for compliance with, and registered as indicated below with the following regulatory bodies:
@@ -34,4 +34,4 @@ IC (ID: 20863-1337R, HVIN CHIP-PRO)
 # Contact NTC
 **Purchasing:** sales@nextthing.co 
 **Technical:** pro@nextthing.co <br>
-Join the conversation at bbs.nextthing.co/c/CHIP-Pro
+Join the conversation at https://bbs.nextthing.co/c/CHIP-Pro
